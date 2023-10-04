@@ -2,7 +2,7 @@
 
 transformers==4.22.1
 ftfy==6.1.1
-Pillow==9.2.0
+Pillow==10.0.1
 diffusers==0.3.0
 onnxruntime==1.12.1
 scikit-image==0.19.3
